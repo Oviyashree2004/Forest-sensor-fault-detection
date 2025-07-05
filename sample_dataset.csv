@@ -1,0 +1,7 @@
+sensor_id,temperature,humidity,co2,pressure,fault_type
+1,20.5,60,400,1013,normal
+2,0.0,58,380,1012,normal
+3,22.0,65,420,1010,normal
+4,20.2,60,400,1013,normal
+5,19.9,61,405,1013,normal
+6,200.0,0,1000,800,anomaly
